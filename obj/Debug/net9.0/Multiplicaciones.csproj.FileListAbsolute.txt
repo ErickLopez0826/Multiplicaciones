@@ -1,0 +1,14 @@
+C:\Users\erick\OneDrive\Programas onedrive\Multiplicaciones\bin\Debug\net9.0\Multiplicaciones.exe
+C:\Users\erick\OneDrive\Programas onedrive\Multiplicaciones\bin\Debug\net9.0\Multiplicaciones.deps.json
+C:\Users\erick\OneDrive\Programas onedrive\Multiplicaciones\bin\Debug\net9.0\Multiplicaciones.runtimeconfig.json
+C:\Users\erick\OneDrive\Programas onedrive\Multiplicaciones\bin\Debug\net9.0\Multiplicaciones.dll
+C:\Users\erick\OneDrive\Programas onedrive\Multiplicaciones\bin\Debug\net9.0\Multiplicaciones.pdb
+C:\Users\erick\OneDrive\Programas onedrive\Multiplicaciones\obj\Debug\net9.0\Multiplicaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Programas onedrive\Multiplicaciones\obj\Debug\net9.0\Multiplicaciones.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Programas onedrive\Multiplicaciones\obj\Debug\net9.0\Multiplicaciones.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Programas onedrive\Multiplicaciones\obj\Debug\net9.0\Multiplicaciones.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Programas onedrive\Multiplicaciones\obj\Debug\net9.0\Multiplicaciones.dll
+C:\Users\erick\OneDrive\Programas onedrive\Multiplicaciones\obj\Debug\net9.0\refint\Multiplicaciones.dll
+C:\Users\erick\OneDrive\Programas onedrive\Multiplicaciones\obj\Debug\net9.0\Multiplicaciones.pdb
+C:\Users\erick\OneDrive\Programas onedrive\Multiplicaciones\obj\Debug\net9.0\Multiplicaciones.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Programas onedrive\Multiplicaciones\obj\Debug\net9.0\ref\Multiplicaciones.dll
